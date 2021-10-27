@@ -1,0 +1,1 @@
+ramyar = document.querySelector('div');
